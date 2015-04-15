@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="overscroll">#33b5e5</color>
+    <color name="category">#FF0000 </color>
+    <color name="category1">#343434 </color>
+    <color name="colorPrimary">#0080FF </color>
+    <color name="colorPrimaryDark">#58D3F7 </color>
+    <color name="colorAccent">#D8D8D8 </color>
+
+
+</resources>

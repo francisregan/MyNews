@@ -1,0 +1,12 @@
+<resources>
+
+<!-- Base application theme. -->
+<style name="AppTheme" parent="AppTheme.Base"/>
+
+<style name="AppTheme.Base" parent="Theme.AppCompat.Light">
+    <!-- Customize your theme here. -->
+
+    <!-- colorPrimary is used for the default action bar background -->
+</style>
+
+</resources>

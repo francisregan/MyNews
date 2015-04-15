@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/show_loading"
+        android:title="@string/menu_show_loading_text"/>
+    <item
+        android:id="@+id/stop_loading"
+        android:title="@string/menu_stop_loading_text"/>
+    <item
+        android:id="@+id/add_data_refresh"
+        android:title="@string/menu_add_data_text"/>
+
+</menu>
